@@ -1,5 +1,5 @@
 *
 !.gitignore
-!Installed Packages
+!Installed\ Packages
 !Packages\User
-Packages\User\Package Control.cache
+Packages\User\Package\ Control.cache
