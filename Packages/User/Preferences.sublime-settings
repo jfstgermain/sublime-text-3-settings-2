@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Markdown",
+		"Vintage"
+	],
+	"remember_open_files": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme"
+}

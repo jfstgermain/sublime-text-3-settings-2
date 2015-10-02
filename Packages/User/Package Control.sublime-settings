@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Better JavaScript",
+		"DocBlockr",
+		"Elixir",
+		"ElixirSublime",
+		"Fold Comments",
+		"GitGutter",
+		"LESS",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP-Twig",
+		"SideBarEnhancements",
+		"Swig",
+		"SyncedSideBar",
+		"Theme - Afterglow",
+		"TodoReview",
+		"Twig"
+	]
+}
